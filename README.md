@@ -22,10 +22,6 @@ Tech Stack
 
 Installation
 
-    Clone the repository:
-
-git clone https://github.com/skp1903/Progressive-Web-App-for-Task-Management-with-Offline-Support.git
-
 Navigate to the project directory:
 
 cd Progressive-Web-App-for-Task-Management-with-Offline-Support
@@ -57,3 +53,10 @@ Contributing
 License
 
 This project is licensed under the MIT License.
+
+
+
+Here is the resultant video tape of the project:
+
+https://github.com/user-attachments/assets/bdbca69a-1ea6-4ba7-a68a-cbe5c656bcdb
+
